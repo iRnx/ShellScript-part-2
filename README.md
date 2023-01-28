@@ -1,5 +1,5 @@
 # ShellScript-part-2
 
 
-.
+
 
