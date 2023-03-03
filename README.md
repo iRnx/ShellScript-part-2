@@ -1,4 +1,2 @@
 # ShellScript-part-2
 
-
-.
